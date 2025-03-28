@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49448b0405b752e4b97214ab3bc1d1be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226273
+  packageName: Sound pack - Breathing System
+  packageVersion: 1.0
+  assetPath: Assets/AcousticArchitect/Breathing/Scripts/BreathingSystemDemo.cs
+  uploadId: 517295

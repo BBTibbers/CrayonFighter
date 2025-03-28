@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9706e0ddf7071c04598f6f585d9772c9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226273
+  packageName: Sound pack - Breathing System
+  packageVersion: 1.0
+  assetPath: Assets/AcousticArchitect/Breathing/Prefabs/Lungs.prefab
+  uploadId: 517295

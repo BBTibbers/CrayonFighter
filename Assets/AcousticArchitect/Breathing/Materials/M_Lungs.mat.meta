@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88de3bd672c45884286a3806c73dcdfd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226273
+  packageName: Sound pack - Breathing System
+  packageVersion: 1.0
+  assetPath: Assets/AcousticArchitect/Breathing/Materials/M_Lungs.mat
+  uploadId: 517295
